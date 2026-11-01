@@ -1,7 +1,3 @@
-# Repository upload status
-
-Code, aggregate tables, point-estimate figures and reproduction evidence are available. Individual-level input CSVs are pending explicit author approval for upload. The reproduction command requires these missing inputs; this GitHub snapshot is not yet a standalone runnable release. The complete locally tested package remains available to the authors separately. No public license has been selected.
-
 # CO2 networking — reproducibility package v0.1
 
 Prepared for author review. This repository reproduces the frozen exploratory CO2 results from the final analytical samples. It does not establish inferential validity or confirm/refute H1/H2.
@@ -53,6 +49,6 @@ No new hypotheses, alternative model specifications, marginal logistic fits, jac
 
 ## Release and citation decisions
 
-This is a private author-review package, not an already published repository. Public-release permissions for the derived bibliographic tables and code license remain to be agreed by the authors. Data contain bibliographic identifiers and author names; they are not anonymized. No open license is asserted by this package. Review redistribution terms before public release; raw subscription-database exports are not bundled.
+This package is hosted in the private author-review repository https://github.com/srobledog/co2-authorship-networks. The owner explicitly authorized uploading the three researcher-level analytical samples. Public-release permissions for the derived bibliographic tables and code license remain to be agreed by the authors. Data contain bibliographic identifiers and author names; they are not anonymized. No open license is asserted by this package. Review redistribution terms before public release; raw subscription-database exports are not bundled.
 
-Before publication: supply the definitive author list, article title, repository URL, license decisions and archived release DOI; then add a complete `CITATION.cff` and data/code availability statement. No DOI or authorship metadata has been invented.
+Before public release: supply the definitive author list, article title, license decisions and archived release DOI; then add a complete `CITATION.cff` and data/code availability statement. No DOI or authorship metadata has been invented.

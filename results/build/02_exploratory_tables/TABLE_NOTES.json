@@ -1,0 +1,11 @@
+{
+  "Table_1_sample_denominators": "Counts are sample-specific; first counts eligible first-author rows. Context = researcher-year. Model labels H1/H2 identify unchanged specifications, not hypothesis decisions.",
+  "Table_2_descriptives": "Prior indicators use one row per researcher-year context, avoiding repetition by current publication. Team size uses one row per publication and maximum recovered documentary evidence. SD is descriptive dispersion, not a standard error. Effective size and repetition remain descriptive; no predictors were added.",
+  "Table_3_signing_history": "Prior categories use usable recovered signatures within the preceding three years, not complete careers. The unit and denominator are eligible researcher-publication observations.",
+  "Table_4_GLMM_coefficients_POINT_ONLY": "Conditional working-model coefficients and odds ratios. Previously non-first only is the reference. No standard errors, confidence intervals or tests are supplied.",
+  "Table_5_indicator_slopes_POINT_ONLY": "Slopes per 0.1 indicator unit, combining interaction coefficients for H1. H2 has one common constraint slope. These are exploratory conditional associations.",
+  "Table_6_standardized_probabilities_POINT_ONLY": "Original main-sample quartile endpoints are retained across sensitivities where supported. H1 standardizes within prior category; H2 pooled contrast standardizes over all observations. Probabilities integrate over a new researcher intercept and use sample-specific empirical covariates. No interval interpretation.",
+  "Table_S1_documentary_coverage": "Retained source flags, not a new quality adjudication. Independent positional verification is narrower than analytical usability.",
+  "Table_S2_random_intercept_SD_POINT_ONLY": "Sigma is the SD of the researcher intercept in log-odds units, a working-model heterogeneity parameter; it is neither a coefficient SE nor a leadership measure.",
+  "Figure_source_points_NO_INTERVALS": "Exact saved point curves with uncertainty columns omitted; source for the new figures."
+}

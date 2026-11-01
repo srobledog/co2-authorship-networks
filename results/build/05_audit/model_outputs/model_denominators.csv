@@ -1,0 +1,4 @@
+dataset,researchers,contexts,publications,observations,first,single_context_researchers,repeated_context_researchers,shared_publications,shared_publication_observations,missing_invalid_exclusions,model
+main_to2025,292,717,765,1079,352,155,137,246,560,0,M0
+quality_to2025,253,553,590,791,265,135,118,160,361,0,M0
+including2026,292,718,766,1080,353,155,137,246,560,0,M0

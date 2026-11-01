@@ -16,7 +16,7 @@ No new statistical specifications, calibration simulations, bootstrap or jackkni
 
 1. Consolidate and test upstream reconstruction from the original exports, identity/date corrections, temporal network and indicator inputs. This package starts at analytical samples and does not claim that upstream chain is reproduced.
 2. Agree code/data redistribution permissions and licenses. The package contains named bibliographic metadata and is intended for author review.
-3. Specify GitHub owner/repository, definitive author metadata and a release citation/DOI. No repository was published and no citation identifiers were invented.
+3. The private repository is https://github.com/srobledog/co2-authorship-networks. Individual-level sample upload was explicitly authorized by the owner. Definitive author metadata and a release citation/DOI remain pending; no citation identifiers were invented.
 4. Independently run the documented command after a fresh dependency installation; the current test used the installed matching environment.
 
 Hypotheses and manuscript were not modified. The statistical closure note remains the authority on permitted interpretation.

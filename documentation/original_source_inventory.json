@@ -1,0 +1,247 @@
+[
+  {
+    "original_path": "models_exploratory_v01/output/data_main_to2025.csv",
+    "package_path": "01_samples/data_main_to2025.csv",
+    "sha256": "2da12f9c3fea871a9d3d2d6cadc39a55e78b16be57144aacb731ec80a4886478"
+  },
+  {
+    "original_path": "models_exploratory_v01/output/data_quality_to2025.csv",
+    "package_path": "01_samples/data_quality_to2025.csv",
+    "sha256": "2b530796340d942ac7a4e2bace95176d8b020bc55cff381ba0b4b979fb89b1d1"
+  },
+  {
+    "original_path": "models_exploratory_v01/output/data_including2026.csv",
+    "package_path": "01_samples/data_including2026.csv",
+    "sha256": "414787d4ebe579d19b69ff9eb420d0626f18589527fccf747069712b0337862f"
+  },
+  {
+    "original_path": "models_exploratory_v01/output/model_covariance_main_to2025_H1.npy",
+    "package_path": "05_audit/model_outputs/model_covariance_main_to2025_H1.npy",
+    "sha256": "0ca425ad56661fc80ecb4c79e86a33188cf5b5d1768deb6c393b9aece26898d4"
+  },
+  {
+    "original_path": "models_exploratory_v01/output/contrast_endpoints.json",
+    "package_path": "05_audit/model_outputs/contrast_endpoints.json",
+    "sha256": "cbc08759134bfd7e10bcbb2d5340a611385dacae5c939b2baac720447e21a178"
+  },
+  {
+    "original_path": "models_exploratory_v01/output/model_covariance_including2026_H1.npy",
+    "package_path": "05_audit/model_outputs/model_covariance_including2026_H1.npy",
+    "sha256": "0993396e0fa23f75e38fe547ce0577200e893f1a22356ac98e2dd7c11a083ece"
+  },
+  {
+    "original_path": "models_exploratory_v01/output/bootstrap_calibration_caution.csv",
+    "package_path": "05_audit/model_outputs/bootstrap_calibration_caution.csv",
+    "sha256": "12507bdf078ff3deddfccd9c7fcd02d9407106914a041f13edec908f0f58dc3e"
+  },
+  {
+    "original_path": "models_exploratory_v01/output/hypothesis_slopes.csv",
+    "package_path": "05_audit/model_outputs/hypothesis_slopes.csv",
+    "sha256": "7c3b0f9e55d954899a0764586f9f592fb8dd282ce49a2ab906d9dc1fc4f954b8"
+  },
+  {
+    "original_path": "models_exploratory_v01/output/bootstrap_diagnostics_summary.csv",
+    "package_path": "05_audit/model_outputs/bootstrap_diagnostics_summary.csv",
+    "sha256": "bca6c44fcff86c9da5ed81e9d229690daed4e8cec36c05aa9c0a00bbc070e53d"
+  },
+  {
+    "original_path": "models_exploratory_v01/output/model_covariance_quality_to2025_H2.npy",
+    "package_path": "05_audit/model_outputs/model_covariance_quality_to2025_H2.npy",
+    "sha256": "f97f12a88dc2995f5585a808e114296f7be7fff9ee259a0e75f6aa0ed6db345e"
+  },
+  {
+    "original_path": "models_exploratory_v01/output/numerical_checks.csv",
+    "package_path": "05_audit/model_outputs/numerical_checks.csv",
+    "sha256": "49b7222e97c7800dbabb19ae883eb7f4bfbab75f6e469cc68628297f3b0215a4"
+  },
+  {
+    "original_path": "models_exploratory_v01/output/model_covariance_main_to2025_H2.npy",
+    "package_path": "05_audit/model_outputs/model_covariance_main_to2025_H2.npy",
+    "sha256": "e53f0285e2090114553abe827b382c1eba4642e99f6d378c463898d61c31b2f3"
+  },
+  {
+    "original_path": "models_exploratory_v01/output/fit_statistics.csv",
+    "package_path": "05_audit/model_outputs/fit_statistics.csv",
+    "sha256": "43a0833eb0055ceec76585ef619fc99325dbdb9c0c2ad56380be7c4bf0942a63"
+  },
+  {
+    "original_path": "models_exploratory_v01/output/bootstrap_diagnostics_all.csv",
+    "package_path": "05_audit/model_outputs/bootstrap_diagnostics_all.csv",
+    "sha256": "cd7d39921041436cd0b7b45cae1aa8f8a1e221361c5de7fe25581748b9b5a189"
+  },
+  {
+    "original_path": "models_exploratory_v01/output/exclusions_all_rows.csv",
+    "package_path": "05_audit/model_outputs/exclusions_all_rows.csv",
+    "sha256": "3560b1e0aebdacc92b49e6b37bbbf778f080a973f4bd41da9f1704875ed32fa0"
+  },
+  {
+    "original_path": "models_exploratory_v01/output/coefficients.csv",
+    "package_path": "05_audit/model_outputs/coefficients.csv",
+    "sha256": "3e25c496560c1787c895c4bbbc650f0395cd40bc9d07454b1ff3cb3f0cc6f82b"
+  },
+  {
+    "original_path": "models_exploratory_v01/output/bootstrap_raw.jsonl",
+    "package_path": "05_audit/model_outputs/bootstrap_raw.jsonl",
+    "sha256": "d824563cc1a8a3a7ac13acad532e5bea25c485e199e35829ce3375f6a6e83563"
+  },
+  {
+    "original_path": "models_exploratory_v01/output/model_comparison.csv",
+    "package_path": "05_audit/model_outputs/model_comparison.csv",
+    "sha256": "db7c0dbeeb68acca8e7797a63e22df7526a3542a229dc09d10fc571879bfcd23"
+  },
+  {
+    "original_path": "models_exploratory_v01/output/model_covariance_quality_to2025_M0.npy",
+    "package_path": "05_audit/model_outputs/model_covariance_quality_to2025_M0.npy",
+    "sha256": "dce0bef45e7921251f64417dcdb109dc7172e09455ada99fc4d3f957b44676c6"
+  },
+  {
+    "original_path": "models_exploratory_v01/output/probability_contrasts.csv",
+    "package_path": "05_audit/model_outputs/probability_contrasts.csv",
+    "sha256": "0489fdae30359b5998a660868abe0dfb8622c9910e2f06fa2d5e26c469d5293e"
+  },
+  {
+    "original_path": "models_exploratory_v01/output/prediction_curves.csv",
+    "package_path": "05_audit/model_outputs/prediction_curves.csv",
+    "sha256": "aec23bb9cf2ed35af3272a86c653b0c08ecb175b7144d365f86af8fb815987e2"
+  },
+  {
+    "original_path": "models_exploratory_v01/output/model_covariance_main_to2025_M0.npy",
+    "package_path": "05_audit/model_outputs/model_covariance_main_to2025_M0.npy",
+    "sha256": "687319150c165139e8e161fba039b35874e051951b4c6dd1afd3aa5bb5a45598"
+  },
+  {
+    "original_path": "models_exploratory_v01/output/original_fits.json",
+    "package_path": "05_audit/model_outputs/original_fits.json",
+    "sha256": "9a4426b5cf5cd91e063372a063609441b5f231dabd74037a8faff1f35a222bb3"
+  },
+  {
+    "original_path": "models_exploratory_v01/output/model_covariance_including2026_M0.npy",
+    "package_path": "05_audit/model_outputs/model_covariance_including2026_M0.npy",
+    "sha256": "aa6b8ec723c621861bc8b3b30bd23df43e22dec5c20c6389124950a389524220"
+  },
+  {
+    "original_path": "models_exploratory_v01/output/model_covariance_including2026_H2.npy",
+    "package_path": "05_audit/model_outputs/model_covariance_including2026_H2.npy",
+    "sha256": "75a0bb77d49c876dded53324b933ec3dafd6da284f7bdb73a6318702c56bc5c1"
+  },
+  {
+    "original_path": "models_exploratory_v01/output/original_diagnostics.csv",
+    "package_path": "05_audit/model_outputs/original_diagnostics.csv",
+    "sha256": "df196e61e5d4bda4c5137f5444f92d1e37b6f3a07d7dfdf6f43fc560ca48ccbd"
+  },
+  {
+    "original_path": "models_exploratory_v01/output/model_denominators.csv",
+    "package_path": "05_audit/model_outputs/model_denominators.csv",
+    "sha256": "bc5422e5461a8768cf51c3b9979565514f422e633d7de12aebf7ba2a922c3da3"
+  },
+  {
+    "original_path": "models_exploratory_v01/output/model_covariance_quality_to2025_H1.npy",
+    "package_path": "05_audit/model_outputs/model_covariance_quality_to2025_H1.npy",
+    "sha256": "0b0f88724c5bee0a2184d06ee4fa722d1b13bcc1423e05c8f860ebe421385a8d"
+  },
+  {
+    "original_path": "models_exploratory_v01/figures/H1_predicted_probabilities.png",
+    "package_path": "05_audit/original_figures_with_bootstrap_bands/H1_predicted_probabilities.png",
+    "sha256": "6fdfd7b9aa37fcfc827ada125143a7abbf9a8f9357e6affdc1ef1fad3fa67a9c"
+  },
+  {
+    "original_path": "models_exploratory_v01/figures/H2_predicted_probabilities.pdf",
+    "package_path": "05_audit/original_figures_with_bootstrap_bands/H2_predicted_probabilities.pdf",
+    "sha256": "2df46d84d8bcd50824c65764e16790a0bdd65cafba9502d6685bb7f3c6ae7730"
+  },
+  {
+    "original_path": "models_exploratory_v01/figures/H2_predicted_probabilities.png",
+    "package_path": "05_audit/original_figures_with_bootstrap_bands/H2_predicted_probabilities.png",
+    "sha256": "2cb18480d7c7b43d0959392557f4ee919b0f494fbb063e38dd114869c0e1b703"
+  },
+  {
+    "original_path": "models_exploratory_v01/figures/H1_predicted_probabilities.pdf",
+    "package_path": "05_audit/original_figures_with_bootstrap_bands/H1_predicted_probabilities.pdf",
+    "sha256": "a560aa0f0883b06fe3532e43494c257c4d19289b96cd5ebe48aed2b8da7d9a7f"
+  },
+  {
+    "original_path": "models_exploratory_v01/CO2_modelos_exploratorios_v01.zip",
+    "package_path": "05_audit/historical_releases/CO2_modelos_exploratorios_v01.zip",
+    "sha256": "6b82a2784b91d55732f1ad79d5fee18b1e22ee1173bcc0701957d11f08e61ec4"
+  },
+  {
+    "original_path": "inference_audit_v01/CO2_Auditoria_inferencia_v01.zip",
+    "package_path": "05_audit/historical_releases/CO2_Auditoria_inferencia_v01.zip",
+    "sha256": "4b1d6e215c08bfd1f8602e97e92d7e56dcf62121f11016d19c100c8c65a2feff"
+  },
+  {
+    "original_path": "inference_review_v02/CO2_Revision_inferencia_v02.zip",
+    "package_path": "05_audit/historical_releases/CO2_Revision_inferencia_v02.zip",
+    "sha256": "e2831191039d0fa4fcb4419539958da153feb021fa33f87ebe12e3f65516173e"
+  },
+  {
+    "original_path": "block_dependence_review_v01/CO2_Soporte_dictamen_bloques_v01.zip",
+    "package_path": "05_audit/historical_releases/CO2_Soporte_dictamen_bloques_v01.zip",
+    "sha256": "ce4511064c7c87bc91e4cdfab985f3e30774db8a5c61a83d825fca657107eb4e"
+  },
+  {
+    "original_path": "statistical_strategy_v01/CO2_Nota_cierre_estrategia_estadistica_v01.md",
+    "package_path": "05_audit/statistical_strategy_v01/CO2_Nota_cierre_estrategia_estadistica_v01.md",
+    "sha256": "41d210dfa49f0cd26e540b452657796b18c13e17a305f7ea62ae4b37b6d30e4a"
+  },
+  {
+    "original_path": "block_dependence_review_v01/CO2_Dictamen_bloques_dependencia_v01.md",
+    "package_path": "05_audit/block_dependence_review_v01/CO2_Dictamen_bloques_dependencia_v01.md",
+    "sha256": "cdbe92bf7726eac14b92d8ab7de9d7b7c92bfce3b7e57962310d26cac2d17fa5"
+  },
+  {
+    "original_path": "block_dependence_review_v01/00_SCOPE.md",
+    "package_path": "05_audit/block_dependence_review_v01/00_SCOPE.md",
+    "sha256": "05a1fa806abadafe59e79158f347a41d0c7234f97fe8fdd356f3728815ecd5e0"
+  },
+  {
+    "original_path": "block_dependence_review_v01/README.md",
+    "package_path": "05_audit/block_dependence_review_v01/README.md",
+    "sha256": "311fffaa979faabf0ea0edc4099d7b1674369eb2888031e44b9a40e32df07af7"
+  },
+  {
+    "original_path": "block_dependence_review_v01/criterios_existentes_congelados.md",
+    "package_path": "05_audit/block_dependence_review_v01/criterios_existentes_congelados.md",
+    "sha256": "41d210dfa49f0cd26e540b452657796b18c13e17a305f7ea62ae4b37b6d30e4a"
+  },
+  {
+    "original_path": "block_dependence_review_v01/criteria_freeze.json",
+    "package_path": "05_audit/block_dependence_review_v01/criteria_freeze.json",
+    "sha256": "6696e7114c31b6b6ea925fe84262163e4836ce0063f7decfe6bdd310f39d6c20"
+  },
+  {
+    "original_path": "block_dependence_review_v01/criterios_existentes_congelados.md",
+    "package_path": "05_audit/block_dependence_review_v01/criterios_existentes_congelados.md",
+    "sha256": "41d210dfa49f0cd26e540b452657796b18c13e17a305f7ea62ae4b37b6d30e4a"
+  },
+  {
+    "original_path": "analytic_sample_v01/DICCIONARIO_heredado_v0.2.2.md",
+    "package_path": "01_samples/DICCIONARIO_heredado_v0.2.2.md",
+    "sha256": "5e6080f5f6d6e6cf8f226eb0ceca31e1bf498fae263b2fdbc4dd2d036f0d075d"
+  },
+  {
+    "original_path": "analytic_sample_v01/DICCIONARIO_muestra_analitica_v0.1.md",
+    "package_path": "01_samples/DICCIONARIO_muestra_analitica_v0.1.md",
+    "sha256": "2346f3bf770fbc0a2a6f7002df42de5777e2b49c50c640b11cd3f09491e1a6f1"
+  },
+  {
+    "original_path": "models_exploratory_v01/00_SPECIFICATION_BEFORE_ESTIMATION.md",
+    "package_path": "05_audit/00_SPECIFICATION_BEFORE_ESTIMATION.md",
+    "sha256": "6051c3d43e04cda6fb760b351cdd8addec34307170f147a51fae73e400f94729"
+  },
+  {
+    "original_path": "ego_indicators_v022/00_METODO_Y_FORMULAS_2026-10-30.md",
+    "package_path": "05_audit/00_METODO_Y_FORMULAS_2026-10-30.md",
+    "sha256": "8c08e0e4ff6eff1b359a052b46ffc11e66c276b80d22bdc0981970ba04639f24"
+  },
+  {
+    "original_path": "inference_review_v02/CO2_Revision_acotada_inferencia_v02.md",
+    "package_path": "05_audit/CO2_Revision_acotada_inferencia_v02.md",
+    "sha256": "fa691f8fe5b93df37d45b21dfabeee6cb0b9166f1032af268706ba042abd3c7e"
+  },
+  {
+    "original_path": "inference_audit_v01/CO2_Auditoria_inferencia_v01.md",
+    "package_path": "05_audit/CO2_Auditoria_inferencia_v01.md",
+    "sha256": "ca67fcd8ac8e19162c4d222e255ea06114eafdb6ebc010c81f5d222101bdc084"
+  }
+]

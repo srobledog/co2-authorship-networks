@@ -1,0 +1,19 @@
+dataset,flag,unit,flagged,denominator,proportion
+main_to2025,position_independently_checked,eligible researcher-publication observation,119,1079,0.1102873030583874
+main_to2025,team_partial,eligible researcher-publication observation,55,1079,0.05097312326227989
+main_to2025,quality_joint_exclusion,eligible researcher-publication observation,288,1079,0.2669138090824838
+main_to2025,quality_partial_ego_document,eligible researcher-publication observation,219,1079,0.20296570898980537
+main_to2025,quality_provisional_alter,eligible researcher-publication observation,108,1079,0.10009267840593142
+main_to2025,reference_membership,eligible researcher-publication observation,1009,1079,0.9351251158480074
+quality_to2025,position_independently_checked,eligible researcher-publication observation,72,791,0.09102402022756005
+quality_to2025,team_partial,eligible researcher-publication observation,31,791,0.039190897597977246
+quality_to2025,quality_joint_exclusion,eligible researcher-publication observation,0,791,0.0
+quality_to2025,quality_partial_ego_document,eligible researcher-publication observation,0,791,0.0
+quality_to2025,quality_provisional_alter,eligible researcher-publication observation,0,791,0.0
+quality_to2025,reference_membership,eligible researcher-publication observation,752,791,0.9506953223767383
+including2026,position_independently_checked,eligible researcher-publication observation,120,1080,0.1111111111111111
+including2026,team_partial,eligible researcher-publication observation,56,1080,0.05185185185185185
+including2026,quality_joint_exclusion,eligible researcher-publication observation,288,1080,0.26666666666666666
+including2026,quality_partial_ego_document,eligible researcher-publication observation,219,1080,0.20277777777777778
+including2026,quality_provisional_alter,eligible researcher-publication observation,108,1080,0.1
+including2026,reference_membership,eligible researcher-publication observation,1009,1080,0.9342592592592592

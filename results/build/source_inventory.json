@@ -1,0 +1,46 @@
+[
+  {
+    "package_path": "01_samples/data_main_to2025.csv",
+    "sha256": "2da12f9c3fea871a9d3d2d6cadc39a55e78b16be57144aacb731ec80a4886478"
+  },
+  {
+    "package_path": "01_samples/DICCIONARIO_heredado_v0.2.2.md",
+    "sha256": "5e6080f5f6d6e6cf8f226eb0ceca31e1bf498fae263b2fdbc4dd2d036f0d075d"
+  },
+  {
+    "package_path": "01_samples/data_quality_to2025.csv",
+    "sha256": "2b530796340d942ac7a4e2bace95176d8b020bc55cff381ba0b4b979fb89b1d1"
+  },
+  {
+    "package_path": "01_samples/data_including2026.csv",
+    "sha256": "414787d4ebe579d19b69ff9eb420d0626f18589527fccf747069712b0337862f"
+  },
+  {
+    "package_path": "01_samples/DICCIONARIO_muestra_analitica_v0.1.md",
+    "sha256": "2346f3bf770fbc0a2a6f7002df42de5777e2b49c50c640b11cd3f09491e1a6f1"
+  },
+  {
+    "package_path": "05_audit/model_outputs/hypothesis_slopes.csv",
+    "sha256": "536e697252dd247f07899e0cbc86b8bf91eaa131e0ec32217c26caeb894ae4e4"
+  },
+  {
+    "package_path": "05_audit/model_outputs/fit_statistics.csv",
+    "sha256": "4caaa42df5593382a79e80ce5f4a27a1a7ef1b0e296672c4a9c631a3933b6652"
+  },
+  {
+    "package_path": "05_audit/model_outputs/coefficients.csv",
+    "sha256": "809cd1dd5ad93704d719ecfa5b8af35146f87dc4f5ca9337b0c96fdb371d0ed2"
+  },
+  {
+    "package_path": "05_audit/model_outputs/probability_contrasts.csv",
+    "sha256": "3ed48ae73889a8dc79cda0b0268e10e468528216451b0bd792903cf10dc2999b"
+  },
+  {
+    "package_path": "05_audit/model_outputs/prediction_curves.csv",
+    "sha256": "befc749183b2203120774c402babc5c1134e5b49d6c7d542c3a3b00b6efa3814"
+  },
+  {
+    "package_path": "05_audit/model_outputs/model_denominators.csv",
+    "sha256": "8bd0de26135533a034d4c82e81f5555e74b2fc17aa5dd965b455647e1abd5bd5"
+  }
+]
