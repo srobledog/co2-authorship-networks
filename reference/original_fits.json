@@ -1,0 +1,197 @@
+{
+  "main_to2025|M0": {
+    "theta": [
+      0.7466120302343772,
+      0.4239265719500787,
+      0.1457986235240489,
+      -0.15381997244912532,
+      -0.8015665147389774,
+      -0.05868185878769477,
+      -0.6353800908489496
+    ],
+    "names": [
+      "Intercept",
+      "prior_first",
+      "prior_mixed",
+      "log2_prior_publications",
+      "log2_team_evidence",
+      "calendar_decade"
+    ]
+  },
+  "main_to2025|H1": {
+    "theta": [
+      0.7379402137001778,
+      0.41291327797679994,
+      0.1809280711190639,
+      -0.1224713727255943,
+      -0.8105488680146922,
+      -0.07893539956763786,
+      -0.07454540586479814,
+      0.151200682553751,
+      0.12377613582541797,
+      -0.6976966904311993
+    ],
+    "names": [
+      "Intercept",
+      "prior_first",
+      "prior_mixed",
+      "log2_prior_publications",
+      "log2_team_evidence",
+      "calendar_decade",
+      "density_per_0.1",
+      "density_x_prior_first",
+      "density_x_prior_mixed"
+    ]
+  },
+  "main_to2025|H2": {
+    "theta": [
+      0.6593960473055155,
+      0.4246827794166198,
+      0.1564493790642349,
+      -0.11124548262535024,
+      -0.8004739746094394,
+      -0.03340249956548656,
+      0.035812715701852994,
+      -0.6582417219984685
+    ],
+    "names": [
+      "Intercept",
+      "prior_first",
+      "prior_mixed",
+      "log2_prior_publications",
+      "log2_team_evidence",
+      "calendar_decade",
+      "constraint_per_0.1"
+    ]
+  },
+  "quality_to2025|M0": {
+    "theta": [
+      0.666050391340019,
+      0.5488393257114607,
+      -0.02910507330117647,
+      -0.013257253967882913,
+      -0.8601316640132255,
+      -0.013280493096364853,
+      -0.545005623288336
+    ],
+    "names": [
+      "Intercept",
+      "prior_first",
+      "prior_mixed",
+      "log2_prior_publications",
+      "log2_team_evidence",
+      "calendar_decade"
+    ]
+  },
+  "quality_to2025|H1": {
+    "theta": [
+      0.6534492913232895,
+      0.5428632839129975,
+      0.007066593638546059,
+      0.03327289735012444,
+      -0.8728339622779008,
+      -0.04078740795466235,
+      -0.07398180660904784,
+      0.14024818622251412,
+      0.15256010834608844,
+      -0.6678122764105965
+    ],
+    "names": [
+      "Intercept",
+      "prior_first",
+      "prior_mixed",
+      "log2_prior_publications",
+      "log2_team_evidence",
+      "calendar_decade",
+      "density_per_0.1",
+      "density_x_prior_first",
+      "density_x_prior_mixed"
+    ]
+  },
+  "quality_to2025|H2": {
+    "theta": [
+      0.5196649314881298,
+      0.5447090105481135,
+      -0.03043482124218797,
+      0.06260052046855946,
+      -0.8575413127762891,
+      0.02580253599961222,
+      0.049644293950345544,
+      -0.5509225123844919
+    ],
+    "names": [
+      "Intercept",
+      "prior_first",
+      "prior_mixed",
+      "log2_prior_publications",
+      "log2_team_evidence",
+      "calendar_decade",
+      "constraint_per_0.1"
+    ]
+  },
+  "including2026|M0": {
+    "theta": [
+      0.7439000868266568,
+      0.4259056167940481,
+      0.1536870358743707,
+      -0.15633525750187233,
+      -0.8008693198331623,
+      -0.04846252235048528,
+      -0.6361102584279711
+    ],
+    "names": [
+      "Intercept",
+      "prior_first",
+      "prior_mixed",
+      "log2_prior_publications",
+      "log2_team_evidence",
+      "calendar_decade"
+    ]
+  },
+  "including2026|H1": {
+    "theta": [
+      0.7366221489790225,
+      0.41452092823517706,
+      0.18815280008366853,
+      -0.1267029941291067,
+      -0.8093750022253616,
+      -0.06810775813943346,
+      -0.07479987755521794,
+      0.15065843686972674,
+      0.12266824297570088,
+      -0.6975855731855222
+    ],
+    "names": [
+      "Intercept",
+      "prior_first",
+      "prior_mixed",
+      "log2_prior_publications",
+      "log2_team_evidence",
+      "calendar_decade",
+      "density_per_0.1",
+      "density_x_prior_first",
+      "density_x_prior_mixed"
+    ]
+  },
+  "including2026|H2": {
+    "theta": [
+      0.6616899002441274,
+      0.4265363808656433,
+      0.16382294783200527,
+      -0.11634999978207394,
+      -0.7997243322939258,
+      -0.024500789695273476,
+      0.03371903494114559,
+      -0.6574090967878224
+    ],
+    "names": [
+      "Intercept",
+      "prior_first",
+      "prior_mixed",
+      "log2_prior_publications",
+      "log2_team_evidence",
+      "calendar_decade",
+      "constraint_per_0.1"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+dataset,prior_group,observations,first,nonfirst,first_proportion
+main_to2025,exclusively_nonfirst_observed,331,95,236,0.28700906344410876
+main_to2025,exclusively_first_observed,116,51,65,0.4396551724137931
+main_to2025,mixed,632,206,426,0.3259493670886076
+quality_to2025,exclusively_nonfirst_observed,265,81,184,0.30566037735849055
+quality_to2025,exclusively_first_observed,88,42,46,0.4772727272727273
+quality_to2025,mixed,438,142,296,0.3242009132420091
+including2026,exclusively_nonfirst_observed,331,95,236,0.28700906344410876
+including2026,exclusively_first_observed,116,51,65,0.4396551724137931
+including2026,mixed,633,207,426,0.32701421800947866

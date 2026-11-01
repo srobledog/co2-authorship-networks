@@ -1,0 +1,219 @@
+{
+  "tolerances": {
+    "theta": 0.0001,
+    "loglik": 1e-06,
+    "probability": 1e-05,
+    "table_numeric": 1e-12
+  },
+  "environment": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "pandas": "2.2.3",
+    "matplotlib": "3.10.8"
+  },
+  "simulations_run": 0,
+  "checks": [
+    {
+      "check": "sha256:data/data_main_to2025.csv",
+      "passed": true
+    },
+    {
+      "check": "sha256:data/DICCIONARIO_heredado_v0.2.2.md",
+      "passed": true
+    },
+    {
+      "check": "sha256:data/data_quality_to2025.csv",
+      "passed": true
+    },
+    {
+      "check": "sha256:data/data_including2026.csv",
+      "passed": true
+    },
+    {
+      "check": "sha256:data/DICCIONARIO_muestra_analitica_v0.1.md",
+      "passed": true
+    },
+    {
+      "check": "sha256:reference/tables/Table_2_descriptives.csv",
+      "passed": true
+    },
+    {
+      "check": "sha256:reference/tables/Figure_source_points_NO_INTERVALS.csv",
+      "passed": true
+    },
+    {
+      "check": "sha256:reference/tables/Table_3_signing_history.csv",
+      "passed": true
+    },
+    {
+      "check": "sha256:reference/tables/Table_S1_documentary_coverage.csv",
+      "passed": true
+    },
+    {
+      "check": "sha256:reference/tables/Table_6_standardized_probabilities_POINT_ONLY.csv",
+      "passed": true
+    },
+    {
+      "check": "sha256:reference/tables/Table_4_GLMM_coefficients_POINT_ONLY.csv",
+      "passed": true
+    },
+    {
+      "check": "sha256:reference/tables/TABLES_FOR_DRAFTING.md",
+      "passed": true
+    },
+    {
+      "check": "sha256:reference/tables/Table_5_indicator_slopes_POINT_ONLY.csv",
+      "passed": true
+    },
+    {
+      "check": "sha256:reference/tables/Table_S2_random_intercept_SD_POINT_ONLY.csv",
+      "passed": true
+    },
+    {
+      "check": "sha256:reference/tables/Table_1_sample_denominators.csv",
+      "passed": true
+    },
+    {
+      "check": "sha256:reference/tables/TABLE_NOTES.json",
+      "passed": true
+    },
+    {
+      "check": "sha256:vendor/fit_models.py",
+      "passed": true
+    },
+    {
+      "check": "main_to2025|M0",
+      "passed": true,
+      "max_abs_theta_difference": 0.0,
+      "loglik_difference": 0.0,
+      "sigma": 0.5297341029627151,
+      "quadrature100_max_beta_difference": 4.4309460656144495e-08
+    },
+    {
+      "check": "main_to2025|H1",
+      "passed": true,
+      "max_abs_theta_difference": 0.0,
+      "loglik_difference": 0.0,
+      "sigma": 0.49773041173614574,
+      "quadrature100_max_beta_difference": 6.672950329383864e-07
+    },
+    {
+      "check": "main_to2025|H2",
+      "passed": true,
+      "max_abs_theta_difference": 0.0,
+      "loglik_difference": 0.0,
+      "sigma": 0.5177609022253361,
+      "quadrature100_max_beta_difference": 2.458823481002459e-07
+    },
+    {
+      "check": "quality_to2025|M0",
+      "passed": true,
+      "max_abs_theta_difference": 0.0,
+      "loglik_difference": -5.684341886080802e-14,
+      "sigma": 0.5798385227314771,
+      "quadrature100_max_beta_difference": 1.0276885228921451e-07
+    },
+    {
+      "check": "quality_to2025|H1",
+      "passed": true,
+      "max_abs_theta_difference": 0.0,
+      "loglik_difference": 0.0,
+      "sigma": 0.5128292801595893,
+      "quadrature100_max_beta_difference": 3.6392297358966985e-07
+    },
+    {
+      "check": "quality_to2025|H2",
+      "passed": true,
+      "max_abs_theta_difference": 0.0,
+      "loglik_difference": 0.0,
+      "sigma": 0.5764178124602443,
+      "quadrature100_max_beta_difference": 1.9949839841909567e-07
+    },
+    {
+      "check": "including2026|M0",
+      "passed": true,
+      "max_abs_theta_difference": 0.0,
+      "loglik_difference": 0.0,
+      "sigma": 0.5293474494733293,
+      "quadrature100_max_beta_difference": 5.688785639779148e-08
+    },
+    {
+      "check": "including2026|H1",
+      "passed": true,
+      "max_abs_theta_difference": 0.0,
+      "loglik_difference": 0.0,
+      "sigma": 0.49778572124145065,
+      "quadrature100_max_beta_difference": 3.1525512318719695e-07
+    },
+    {
+      "check": "including2026|H2",
+      "passed": true,
+      "max_abs_theta_difference": 0.0,
+      "loglik_difference": 0.0,
+      "sigma": 0.5181921825281264,
+      "quadrature100_max_beta_difference": 2.84525176585948e-07
+    },
+    {
+      "check": "table:Figure_source_points_NO_INTERVALS.csv",
+      "passed": true,
+      "absolute_tolerance": 1e-05,
+      "rows": 378
+    },
+    {
+      "check": "table:Table_1_sample_denominators.csv",
+      "passed": true,
+      "absolute_tolerance": 1e-12,
+      "rows": 3
+    },
+    {
+      "check": "table:Table_2_descriptives.csv",
+      "passed": true,
+      "absolute_tolerance": 1e-12,
+      "rows": 24
+    },
+    {
+      "check": "table:Table_3_signing_history.csv",
+      "passed": true,
+      "absolute_tolerance": 1e-12,
+      "rows": 9
+    },
+    {
+      "check": "table:Table_4_GLMM_coefficients_POINT_ONLY.csv",
+      "passed": true,
+      "absolute_tolerance": 1e-05,
+      "rows": 66
+    },
+    {
+      "check": "table:Table_5_indicator_slopes_POINT_ONLY.csv",
+      "passed": true,
+      "absolute_tolerance": 1e-05,
+      "rows": 12
+    },
+    {
+      "check": "table:Table_6_standardized_probabilities_POINT_ONLY.csv",
+      "passed": true,
+      "absolute_tolerance": 1e-05,
+      "rows": 12
+    },
+    {
+      "check": "table:Table_S1_documentary_coverage.csv",
+      "passed": true,
+      "absolute_tolerance": 1e-12,
+      "rows": 18
+    },
+    {
+      "check": "table:Table_S2_random_intercept_SD_POINT_ONLY.csv",
+      "passed": true,
+      "absolute_tolerance": 1e-05,
+      "rows": 9
+    },
+    {
+      "check": "figures",
+      "passed": true
+    }
+  ],
+  "status": "PASS",
+  "original_models_refitted": 9,
+  "scope": "Frozen analytical samples to point estimates, tables and figures. No upstream network reconstruction or inference calibration."
+}

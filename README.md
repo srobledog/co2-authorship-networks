@@ -1,3 +1,7 @@
+# Repository upload status
+
+Code, aggregate tables, point-estimate figures and reproduction evidence are available. Individual-level input CSVs are pending explicit author approval for upload. The reproduction command requires these missing inputs; this GitHub snapshot is not yet a standalone runnable release. The complete locally tested package remains available to the authors separately. No public license has been selected.
+
 # CO2 networking — reproducibility package v0.1
 
 Prepared for author review. This repository reproduces the frozen exploratory CO2 results from the final analytical samples. It does not establish inferential validity or confirm/refute H1/H2.
